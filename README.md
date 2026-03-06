@@ -1,13 +1,15 @@
-
 # Solar Energy Landing Page ☀️
 
 A modern solar energy landing page built with React + Vite.
 
-## Home Section
+## 🚀 Live Demo
+👉 **[View Live Website](https://solairey.vercel.app/)**
+
+## 🏠 Home Section
 
 ![Home Section](./public/images/home-section-screenshot.png)
 
-## Tech Stack
+## 🛠 Tech Stack
 - React
 - Vite
-- tailwind
+- Tailwind CSS
